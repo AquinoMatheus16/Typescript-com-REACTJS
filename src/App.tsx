@@ -116,7 +116,7 @@ export default function App() {
   );
 }
 
-// Basico
+// Básico
 // import React, { useState } from 'react';
 // import './App.css';
 
